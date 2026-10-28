@@ -27,7 +27,7 @@ EthernetClient net;
 MQTTClient client;
 
 unsigned long lastMillis = 0;
-const char mqtt_broker[] = "192.168.0.52";
+const char mqtt_broker[] = "192.168.88.67";   // esta direccion no se cambia seria el docker de mi computadora (profesor) donde el arduino uno de  G408 se va a conectar al servidor  
 String TopicoSalida = "G408/casa";
 
 // LUCES DE LA CASA
