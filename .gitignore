@@ -1,0 +1,17 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+build/
+.arduino/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema Operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
