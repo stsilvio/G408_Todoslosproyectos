@@ -11,7 +11,7 @@ const DEFAULT_CONFIG = {
   port: 9001,
   protocol: 'ws',
   path: '/mqtt',
-  topic: 'G408/casa',
+  topic: 'G408/Casa2EmaSeba',
   username: '',
   password: ''
 };
